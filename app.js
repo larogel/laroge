@@ -35,7 +35,9 @@ class Device {
 }
 
 class Method {
+      constructor() {}
 }
+
 
 class Server {
 
