@@ -2,6 +2,9 @@ const server = require('express');
 const md5 = require('md5')
 const client = require('./models/client')
 
+class User {
+
+}
 
 class Server {
 
