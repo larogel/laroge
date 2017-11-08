@@ -1,5 +1,4 @@
 /*
- * Thread configuration for each thread. Make sure it matches the number above.
  */
  
 "cpu_threads_conf" :
