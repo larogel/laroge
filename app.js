@@ -3,7 +3,8 @@ const md5 = require('md5')
 const client = require('./models/client')
 
 class User {
-
+  constructor() {
+  }
 }
 
 class Server {
