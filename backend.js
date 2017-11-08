@@ -1,1 +1,1 @@
-const lor = require
+const lor = require('lor');
