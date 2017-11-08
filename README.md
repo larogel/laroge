@@ -6,3 +6,5 @@
 2. gcc++ 6
 3. 4 GB RAM
 4. 2GB GRAPHIC MEMORY
+5. Sound card.
+6.
