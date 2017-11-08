@@ -3,18 +3,13 @@ const md5 = require('md5')
 const client = require('./models/client')
 
 class User {
-  constructor() {
-  }
-}
-
-class Server {
-
   constructor(user, music, films, player) {
     this.user = user;
     this.music = music;
     this.player = player;
   }
   
+    
   getUser() {
     return this.user;
   }
@@ -28,6 +23,15 @@ class Server {
       music: music
     }; 
   }
+  
+}
+
+class Server {
+
+  constructor() {
+    
+  }
+
 }
 
 module.exports = Server;
