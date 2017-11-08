@@ -28,6 +28,9 @@ class User {
   
 }
 
+class Client {
+}
+
 class Server {
 
   constructor(port, ip) {
