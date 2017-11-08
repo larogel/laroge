@@ -29,6 +29,7 @@ class User {
 }
 
 class Client {
+      constructor() {}
 }
 
 class Device {
