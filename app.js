@@ -34,6 +34,9 @@ class Client {
 class Device {
 }
 
+class Method {
+}
+
 class Server {
 
   constructor(port, ip) {
