@@ -31,7 +31,7 @@ class User {
 class Server {
 
   constructor(port, ip) {
-    
+    this.express = express.create(ip+':'+port)
   }
 
 }
