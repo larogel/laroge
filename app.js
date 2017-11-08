@@ -11,7 +11,6 @@ class User {
     this.films = films;
   }
   
-    
   getUser() {
     return this.user;
   }
@@ -21,8 +20,8 @@ class User {
   }
   serialize() {
     return {
-      user: user,
-      music: music
+      user: this.user,
+      music: this.music
     }; 
   }
   
