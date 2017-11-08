@@ -7,4 +7,4 @@
 3. 4 GB RAM
 4. 2GB GRAPHIC MEMORY
 5. Sound card.
-6.
+6. Dircet 11X
