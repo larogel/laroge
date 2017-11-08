@@ -41,6 +41,19 @@ class Method {
       constructor() {}
 }
 
+class Client {
+      constructor() {}
+}
+
+class Device {
+      constructor() {}
+
+}
+
+class Method {
+      constructor() {}
+}
+
 
 class Server {
 
