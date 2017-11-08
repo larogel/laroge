@@ -32,6 +32,8 @@ class Client {
 }
 
 class Device {
+      constructor() {}
+
 }
 
 class Method {
