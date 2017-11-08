@@ -13,7 +13,6 @@
  *
  * 6. In the pane, double-click Lock pages in memory.
  * 7. In the Local Security Setting – Lock pages in memory dialog box, click Add User or Group.
- * 8. In the Select Users, Service Accounts, or Groups dialog box, add an account that you will run the miner on
  * 9. Reboot for change to take effect.
  * Windows also tends to fragment memory a lot. If you are running on a system with 4-8GB of RAM you might need
  *
